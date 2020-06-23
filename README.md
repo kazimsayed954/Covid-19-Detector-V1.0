@@ -1,5 +1,5 @@
 # Covid-19-Detector-V1.0
-A covid-19 Detector about accuracy of 97%
+A covid-19 Detector about accuracy of 97%<br>
 Link for model code repo:https://github.com/kazimsayed954/COVID-19-Detetctor-Model-V1.0-
 
 ![chrome_1vmuFrFHMt](https://user-images.githubusercontent.com/41298650/85228824-89525f80-b403-11ea-95e3-ef950081bfbf.png)
